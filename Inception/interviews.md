@@ -1,4 +1,4 @@
-# Inception Interviews
+# Consumer Interviews
 Place to log the raw interview data before it is combined into the final proposal
 
 ## Template
