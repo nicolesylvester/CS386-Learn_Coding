@@ -13,9 +13,9 @@ Writers: Ricardo Chairez, Ian Dennis, Kelene Moore, Bailey Rosato, Nasya Valenzu
 "..."
 
 ### Interview 1
-_Interviewer: Kelene
-Interviewee: Scott Moore
-Date of Interview: 2/2/22
+_Interviewer:\ Kelene
+Interviewee:\ Scott Moore
+Date of Interview:\ 2/2/22
 Consumer Segments:_
 
 **Sumary of Interview:**
