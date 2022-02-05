@@ -1,7 +1,4 @@
-# Consumer Interviews
-Place to log the raw interview data before it is combined into the final proposal
-
-## Template
+# Template
 __Establish the following:__\
 &nbsp;&nbsp;&nbsp;Name\
 &nbsp;&nbsp;&nbsp;Age\
