@@ -25,7 +25,7 @@ CodeHub is a free, self-paced programming education web application designed to 
 - Gamers and Modders 
 
 ## Summary of Interviews
-"..."
+Listed below is a summary of the 11 constumer interviews conducted. Notably, this includes the features customers would like to see and the ones they could do without.
 
 ### Interview 1
 _Interviewer: Bailey Rosato\
