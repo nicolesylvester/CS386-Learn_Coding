@@ -28,20 +28,28 @@ CodeHub is a free, self-paced programming education web application designed to 
 "..."
 
 ### Interview 1
-_Interviewer: 
-Interviewee: 
-Date of Interview: 
-Consumer Segments:_
+Interviewer: Bailey Rosato <br/> 
+Interviewee: Shawn Abele <br/>
+Date of Interview: 2/3/2022 <br/>
 
-**Sumary of Interview:**
+Consumer Segments:
+- Teacher/School district
+- Early education
+
+**Sumary of Interview:** Technology Integration Educator. 50 years old, has Bachelor’s in Computer Science and Secondary Education. From an educator standpoint, moving away from applications that focus solely on drag-and-drop coding is desired. Self-sufficient learning is important. The independence of the application could make it a must have for K-8 education. 
 
 **Key Insights**
+- Make sure that users must attempt an answer before getting a hint or solution. 
+- Visuals are not a top priority - teachers are more concerned with content
 
 **Relevent Quotes**
+- “Parents won’t want their kids to be able to talk to anyone on a community hub - it’s a safety concern”
+- “Colors are not the most important thing, but using colors for learning association would be beneficial”
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
-
-
+- Must have - Achievements and awards system
+- Nice to have - Regular coding reminders
+- Don’t care - Community discussion/forum
 
 ### Interview 2
 _Interviewer:\
