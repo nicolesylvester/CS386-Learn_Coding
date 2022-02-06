@@ -1,6 +1,6 @@
 # Project Inception 
 
-_Team 7: CodeHub\
+Team 7: CodeHub\
 Febuary 4th, 2022\
 Writers: Ricardo Chairez, Ian Dennis, Kelene Moore, Bailey Rosato, Nasya Valenzuela, Nicole Sylvester
 
@@ -16,7 +16,7 @@ CodeHub is a free, self-paced programming education web application designed to 
 **Consumer Segments:** We aim to target the following audiences
 - School Districts 
 - Teachers
-- Early education for K-12 students 
+- Early education for K-8 students 
 - Supplemental Education for high school and college students 
 - Self-paced Learners 
 - Employee Training 
@@ -25,7 +25,6 @@ CodeHub is a free, self-paced programming education web application designed to 
 - Gamers and Modders 
 
 ## Summary of Interviews
-"..."
 
 ### Interview 1
 Interviewer: Bailey Rosato <br/> 
@@ -240,5 +239,11 @@ Consumer Segments:_
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
 
-## Revised Value Proposition and COnsumer Segments
-"..."
+## Revised Value Proposition and Consumer Segments
+# Final Value Proposition: 
+CodeHub is a free, self-paced programming education web- application designed to teach coding to all ages at any level of coding experience. 
+
+# Consumer Segments:
+- Teachers
+- School districts
+- Early education 
