@@ -144,34 +144,52 @@ Consumer Segments:_
 
 
 ### Interview 7
-_Interviewer:\
-Interviewee:\
-Date of Interview:
-Consumer Segments:_
+_Interviewer:_ Nasya Valenzuela\
+_Interviewee:_ Mya Davis\
+_Date of Interview:_ 02/02/2022\
+_Consumer Segments:_ Supplemental Education for high school and college students
 
 **Sumary of Interview:**
+Good idea but it could get complicated and confusing really fast. Good to use when you are starting out or when you dont understand right away. It need to be clear and separate the languages well so that they don't start mixing.
 
 **Key Insights**
+- Common languages
+- Cool to do the same project in different ways
+- Beneficial for when you're learning to code-
 
 **Relevent Quotes**
+- "Yes, gold stickers all the way!"
+- "Community hub could be beneficial or it could be sad"
+- "Not data, data is no fun"
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
-
+- Multiple Projects in parallel: Nice to have
+- Regular coding reminders: Must have
+- Dark mode: Must have
 
 ### Interview 8
-_Interviewer:\
-Interviewee:\
-Date of Interview:
-Consumer Segments:_
+_Interviewer:_ Nasya Valenzuela\
+_Interviewee:_ Samantha Nearing\
+_Date of Interview:_ 02/03/2022\
+_Consumer Segments:_ Supplemental Education for high school and college students
 
 **Sumary of Interview:**
+Very interesting idea, and would be really helpful at the beginning of college. Fun and easy projects would the best way to get people to learn, and having a variety would make everyone using it happy. 
 
 **Key Insights**
+- Good for when you have no prior experience
+- Community hub can be really motivating
+- Variety of projects that are fun for everyone
 
 **Relevent Quotes**
+- "Love this idea"
+- "Dark mode!!!"
+- "Best motivator[rewards systems]"
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
-
+- Dark mode: Must have
+- Community hub: Nice to have
+- Rewards System: Must have
 
 ### Interview 9
 _Interviewer:\
