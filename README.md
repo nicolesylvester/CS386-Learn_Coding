@@ -1,2 +1,10 @@
-# CS386-Code development and learning app
-Project to set up a website that will scrap Youtube and other social media data over time. This data can also be turned into statistics based on the user's interest
+# CS386 - CodeHub
+CodeHub is a free, self-paced programming education web- application designed to teach coding to all ages at any level of coding experience. 
+
+# Authors:
+- Ricardo Chairez
+- Ian Dennis 
+- Kelene Moore
+- Bailey Rosato 
+- Nicole Sylvester
+- Nasya Valenzuela 
