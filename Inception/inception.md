@@ -29,7 +29,7 @@ We aim to target the following audiences:
 Listed below is a summary of the 11 constumer interviews conducted. Notably, this includes the features customers would like to see and the ones they could do without.
 
 ### Interview 1
-_Interviewer: Bailey Rosato\
+_Interviewer: Bailey\
 Interviewee: Shawn Abele\
 Date of Interview: 2/3/2022\
 Consumer Segments: Teacher/School district, Early education_
@@ -190,7 +190,7 @@ Consumer Segments: Mayo Clinic Health Care Financing Representative, Parent_
 - Simple, non-overwhelming colors and customizable: Nice to have
 
 ### Interview 7
-_Interviewer: Nasya Valenzuela\
+_Interviewer: Nasya\
 Interviewee: Mya Davis\
 Date of Interview: 02/02/2022\
 Consumer Segments: Supplemental Education for high school and college students_
@@ -214,7 +214,7 @@ Good idea but it could get complicated and confusing really fast. Good to use wh
 - Dark mode: Must have
 
 ### Interview 8
-_Interviewer: Nasya Valenzuela\
+_Interviewer: Nasya\
 Interviewee: Samantha Nearing\
 Date of Interview: 02/03/2022\
 Consumer Segments: Supplemental Education for high school and college students_
