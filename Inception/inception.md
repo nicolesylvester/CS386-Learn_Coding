@@ -30,11 +30,8 @@ CodeHub is a free, self-paced programming education web application designed to 
 ### Interview 1
 _Interviewer: Bailey Rosato\
 Interviewee: Shawn Abele\
-Date of Interview: 2/3/2022_
-
-Consumer Segments:
-- Teacher/School district
-- Early education
+Date of Interview: 2/3/2022\
+Consumer Segments: Teacher/School district, Early education_
 
 **Sumary of Interview:** Technology Integration Educator. 50 years old, has Bachelor’s in Computer Science and Secondary Education. From an educator standpoint, moving away from applications that focus solely on drag-and-drop coding is desired. Self-sufficient learning is important. The independence of the application could make it a must have for K-8 education. 
 
