@@ -13,7 +13,8 @@ Future work may include integration into school districts, focusing on elementar
 **Initial Value Prosition:** 
 CodeHub is a free, self-paced programming education web application designed to introduce coding to those with no experience. 
 
-**Consumer Segments:** We aim to target the following audiences
+**Consumer Segments:**
+We aim to target the following audiences:
 - School Districts 
 - Teachers
 - Early education for K-12 students 
@@ -33,7 +34,8 @@ Interviewee: Shawn Abele\
 Date of Interview: 2/3/2022\
 Consumer Segments: Teacher/School district, Early education_
 
-**Sumary of Interview:** Technology Integration Educator. 50 years old, has Bachelor’s in Computer Science and Secondary Education. From an educator standpoint, moving away from applications that focus solely on drag-and-drop coding is desired. Self-sufficient learning is important. The independence of the application could make it a must have for K-8 education. 
+**Sumary of Interview:** 
+Technology Integration Educator. 50 years old, has Bachelor’s in Computer Science and Secondary Education. From an educator standpoint, moving away from applications that focus solely on drag-and-drop coding is desired. Self-sufficient learning is important. The independence of the application could make it a must have for K-8 education. 
 
 **Key Insights**
 - Make sure that users must attempt an answer before getting a hint or solution. 
@@ -49,19 +51,31 @@ Consumer Segments: Teacher/School district, Early education_
 - Don’t care - Community discussion/forum
 
 ### Interview 2
-_Interviewer:\
-Interviewee:\
-Date of Interview:\
-Consumer Segments:_
+_Interviewer: Bailey\
+Interviewee: Ryan McGaughey\
+Date of Interview: 2/4/2022\
+Consumer Segments: College student, Self-paced learner/Hobbyist_
 
 **Sumary of Interview:**
+Customer was very interested in how the logistics of the applications would work, especially the projects. He had prior experience with CodeHS and recommended looking at it as a comparible application.
 
 **Key Insights**
+- Spend time developing how projects will be scored and passed
+- Include a language reference/comparision page (i.e. where users can look up what language would best serve their future needs)
+- Include a pretest so users don't have to start at ground zero if they already know something
+- No learning languages in parallel, it's not as fast and efficient as just learning one language then another one
+   - Do include fun facts about what applies to multiple languages however
 
 **Relevent Quotes**
+- "Consider walking users through a project as a means of teaching them. For example, have them move a dog around the screen with code. In video on they learn to walk the dog, in future videos they build to the point where they are running the dog through an obstical course."
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
-
+- Projects: Must have
+- Testing out of content: Must have
+- Leaderboards, achievements and the like: Nice to have
+- Dark mode, reminders (user set frequency): Nice to have
+- Live chats: Don't care
+- Parallel learning: Don't care
 
 ### Interview 3
 _Interviewer: Kelene\
@@ -88,7 +102,7 @@ Discussed how learning web development can help her business. The interviewee pr
 - Learning multiple languages in parallel: Nice to have
 - Achievements and rewards systems: Don’t care
 - Community hub, or ranking system: Must have
-- Types of projects to work on, for example: game development, large data analysis, web development, app development, etc: Web and app development, nice to have
+- Types of projects to work on, for example: game development, large data analysis, web development, app development, etc: Web and app development: Nice to have
 
 ### Interview 4
 _Interviewer: Kelene\
@@ -115,7 +129,7 @@ The interviewee had a lot of information and suggestions. Discussed this app bei
 - Learning multiple languages in parallel: Nice to have
 - Achievements and rewards systems: Nice to have
 - Community hub, or ranking system: Must have (somewhere to ask questions)
-- Types of projects to work on, for example: game development, large data analysis, web development, app development, etc: Nice to have as you move up
+- Types of projects to work on, for example: game development, large data analysis, web development, app development, etc.: Nice to have as you move up
 
 
 ### Interview 5
@@ -139,12 +153,12 @@ Brother, 15, a high school student, he wants to learn video game development in 
 - “I want the webapp to be customizable and to be able to pick an interface color”
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
-- Weekly coding reminders (Nice)
-- Multiple Languages (Must)
-- Ranking system (Don’t Care)
-- Community hub (Nice)
-- Game development Projects (Must)
-- Dark Mode for Night Coding (Nice)
+- Weekly coding reminders:Nice to have
+- Multiple Languages: Must have
+- Ranking system: Don’t care
+- Community hub: Nice to have
+- Game development Projects: Must have
+- Dark Mode for Night Coding: Nice to have
 
 ### Interview 6
 _Interviewer: Nicole\
@@ -168,12 +182,12 @@ Consumer Segments: Mayo Clinic Health Care Financing Representative, Parent_
 - “I love the thought of a community hub or chat room that lets you share ideas and gain perspective.”
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
-- Weekly Reminders that are not during the workday or at night (Must)
-- Multiple Languages (Don't care)
-- Achievements and Ranking system (Nice)
-- Chat Room (Must)
-- Variety of types of projects (Must)
-- Simple, non-overwhelming colors and customizable (Nice)
+- Weekly Reminders that are not during the workday or at night: Must have
+- Multiple Languages: Don't care
+- Achievements and Ranking system: Nice to have
+- Chat Room: Must have
+- Variety of types of projects: Must have
+- Simple, non-overwhelming colors and customizable: Nice to have
 
 ### Interview 7
 _Interviewer: Nasya Valenzuela\
@@ -275,33 +289,6 @@ Customer has no code experience and hates working with computers. However, havin
 - Community hub, forums, and peer assistance: Nice to have
 - Rankings, reminders, and achievements: Don't care
 - Projects: Don't care
-
-### Interview 11
-_Interviewer: Ian\
-Interviewee: Ryan McGaughey\
-Date of Interview: 2/4/2022\
-Consumer Segments: College student, Self-paced learner/Hobbyist_
-
-**Sumary of Interview:**
-Customer was very interested in how the logistics of the applications would work, especially the projects. He had prior experience with CodeHS and recommended looking at it as a comparible application.
-
-**Key Insights**
-- Spend time developing how projects will be scored and passed
-- Include a language reference/comparision page (i.e. where users can look up what language would best serve their future needs)
-- Include a pretest so users don't have to start at ground zero if they already know something
-- No learning languages in parallel, it's not as fast and efficient as just learning one language then another one
-   - Do include fun facts about what applies to multiple languages however
-
-**Relevent Quotes**
-- "Consider walking users through a project as a means of teaching them. For example, have them move a dog around the screen with code. In video on they learn to walk the dog, in future videos they build to the point where they are running the dog through an obstical course."
-
-**Consumer Assessment (Must have/Nice to have/Don't care)**
-- Projects: Must have
-- Testing out of content: Must have
-- Leaderboards, achievements and the like: Nice to have
-- Dark mode, reminders (user set frequency): Nice to have
-- Live chats: Don't care
-- Parallel learning: Don't care
 
 ## Revised Value Proposition and COnsumer Segments
 "..."
