@@ -240,10 +240,11 @@ Consumer Segments:_
 **Consumer Assessment (Must have/Nice to have/Don't care)**
 
 ## Revised Value Proposition and Consumer Segments
-# Final Value Proposition: 
+
+**Final Value Proposition:**
 CodeHub is a free, self-paced programming education web- application designed to teach coding to all ages at any level of coding experience. 
 
-# Consumer Segments:
+**Consumer Segments:**
 - Teachers
 - School districts
 - Early education 
