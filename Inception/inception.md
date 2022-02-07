@@ -10,7 +10,9 @@ For those who are curious, want a hobby, or interested in beginning a career, Co
 Future work may include integration into school districts, focusing on elementary and junior high schools, where there is less accessibility for a computer science education. Being able to add a teacher persona to the application that allows them to monitor student’s progress and assist them, as necessary. Another future goal is to include large scale programming projects that will require users to carefully plan their work, and even work in teams. 
 
 ## Initial Value Proposition and Consumer Segments
-**Initial Value Prosition:** 
+Below is the initial value proposition and target consumers that were idealized prior to conducting any costumer interviews.
+
+**Initial Value Proposition:** 
 CodeHub is a free, self-paced programming education web application designed to introduce coding to those with no experience. 
 
 **Consumer Segments:**
@@ -290,5 +292,20 @@ Customer has no code experience and hates working with computers. However, havin
 - Rankings, reminders, and achievements: Don't care
 - Projects: Don't care
 
-## Revised Value Proposition and COnsumer Segments
-"..."
+## Revised Value Proposition and Consumer Segments
+After conducting costumer interviews, the initial value proposition and cunsumer segments were updated to the following.
+
+**Initial Value Proposition**
+CodeHub is a free, self-paced programming education web- application designed to teach coding to all ages at any level of coding experience.
+
+**Consumer Segments**
+- School Districts 
+- Teachers
+- Early education for K-12 students 
+- Supplemental Education for high school and college students 
+- Self-paced Learners 
+- Employee Training 
+- Small Businesses 
+- Hobbyist
+- Gamers and Modders
+- Other Educators
