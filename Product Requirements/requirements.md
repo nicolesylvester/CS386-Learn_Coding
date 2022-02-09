@@ -29,6 +29,6 @@ Writers: Ricardo Chairez, Ian Dennis, Kelene Moore, Bailey Rosato, Nasya Valenzu
 ### 6.2. Use case descriptions
 
 
-# 7. User stories
+## 7. User stories
 
-## 8. Trello
+## 8. Issue tracker
