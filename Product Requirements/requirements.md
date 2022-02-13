@@ -126,6 +126,16 @@ CodeHub is a free, self-paced programming education web- application designed to
 2. User creates a community post or adds to a post that has already been created.
 3. End use case
 
+**Use Case**: Join a team\
+**Actor**: User\
+**Description**: Users can join a team to collaborate on projects.\
+**Preconditions**: User must have application downloaded and have a profile created.\
+**Postconditions**: User will become an active participant of a team.\
+**Main Flow**:
+1. User chooses a set of users to be in a team with.
+2. User collaborates with other members of the team to complete a project.
+3. End use case.
+
 ## 7. User stories
 
 **User story 1**:“As a user, I want to read about the purpose of programming languages first so I can learn the one that suites my needs.” \
