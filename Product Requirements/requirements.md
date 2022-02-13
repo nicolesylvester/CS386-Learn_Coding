@@ -88,7 +88,43 @@ CodeHub is a free, self-paced programming education web- application designed to
 <img alt="image" src="https://user-images.githubusercontent.com/71862426/153727318-0a3d02e0-d705-43e1-8377-c0d23bb8b537.png">
 
 ### 6.2. Use case descriptions
+**Use Case**: Manage Community Hub\
+**Actor**: Moderator\
+**Description**: Moderator can delete, ban, and community posts/profiles as appropriate.\
+**Preconditions**: Must have downloaded application and have a moderator profile.\
+**Postconditions**: Normal user account will be changed as outlined in description. The community hub has been updated to reflect these descriptions\
+**Main Flow**:
+1. Case begins when Moderator visits the community hub.
+2. Moderator views an outstanding community post or profile.\
+  a. Alternative flow 1.\
+  b. Alternative flow 2.\
+  c. Alternative flow 3.\
+  d. Alternative flow 4.
+3. End use case.\
+**Alternative Flow 1:**
+1. The post observed by the moderator is exceptionally helpful or relevent.
+2. The Moderator marks the post with a commendation.\
+**Alternative Flow 2:**
+1. The post observed by the moderator is derogatory, irrelevent, or violates other community guidelines not listed here.
+2. The Moderator removes the post from the community hub.
+3. The Moderator messages the owner of the post with a warning and a description of why their post was removed.\
+**Alternative Flow 3:**
+1. The User observed by the Moderator has been consistenly active and helpful in the community.
+2. The Moderator awards the user with commendations.\
+**Alternative Flow 4:**
+1. The User observed by the Moderator has consitently violated the community guidelines.
+2. The Moderator permantently bans or temporarily suspends the User's community access.
+3. The Moderator messages the owner of the post with a warning and description of why their account access was modified.
 
+**Use Case**: Participate in a Community Hub\
+**Actor**: User\
+**Description**: Users will be able to submit forum posts and responses to a community hub.\
+**Preconditions**: User must have application downloaded and thier profile must be verfied to be run by a person.\
+**Postconditions**: User will become an active participant of the community hub.\
+**Main Flow**:
+1. User navigates to community hub location on application.
+2. User creates a community post or adds to a post that has already been created.
+3. End use case
 
 ## 7. User stories
 
