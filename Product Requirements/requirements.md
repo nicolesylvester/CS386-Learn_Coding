@@ -96,25 +96,21 @@ CodeHub is a free, self-paced programming education web- application designed to
 **Main Flow**:
 1. Case begins when Moderator visits the community hub.
 2. Moderator views an outstanding community post or profile.\
-  a. Alternative flow 1.\
-  b. Alternative flow 2.\
-  c. Alternative flow 3.\
-  d. Alternative flow 4.
-3. End use case.\
-**Alternative Flow 1:**
-1. The post observed by the moderator is exceptionally helpful or relevent.
-2. The Moderator marks the post with a commendation.\
-**Alternative Flow 2:**
-1. The post observed by the moderator is derogatory, irrelevent, or violates other community guidelines not listed here.
-2. The Moderator removes the post from the community hub.
-3. The Moderator messages the owner of the post with a warning and a description of why their post was removed.\
-**Alternative Flow 3:**
-1. The User observed by the Moderator has been consistenly active and helpful in the community.
-2. The Moderator awards the user with commendations.\
-**Alternative Flow 4:**
-1. The User observed by the Moderator has consitently violated the community guidelines.
-2. The Moderator permantently bans or temporarily suspends the User's community access.
-3. The Moderator messages the owner of the post with a warning and description of why their account access was modified.
+  **Alternative Flow 1:**\
+  a. The post observed by the moderator is exceptionally helpful or relevent.\
+  b. The Moderator marks the post with a commendation.\
+  **Alternative Flow 2:**\
+  a. The post observed by the moderator is derogatory, irrelevent, or violates other community guidelines not listed here.\
+  b. The Moderator removes the post from the community hub.\
+  c. The Moderator messages the owner of the post with a warning and a description of why their post was removed.\
+  **Alternative Flow 3:**\
+  a. The User observed by the Moderator has been consistenly active and helpful in the community.\
+  b. The Moderator awards the user with commendations.\
+  **Alternative Flow 4:**\
+  a. The User observed by the Moderator has consitently violated the community guidelines.\
+  b. The Moderator permantently bans or temporarily suspends the User's community access.\
+  c. The Moderator messages the owner of the post with a warning and description of why their account access was modified.
+3. End use case. 
 
 **Use Case**: Participate in a Community Hub\
 **Actor**: User\
@@ -145,7 +141,7 @@ CodeHub is a free, self-paced programming education web- application designed to
 1. The use case begins when the user chooses a project to work on.  
 2. User watches tutorial video.  
 3. User can begin writing code in the IDE.\
-   a. Alternative flow: User chooses to exit out of the current project to work on something else.  
+   **Alternative flow**: User chooses to exit out of the current project to work on something else.  
 4. User can switch between different projects.  
 5. User can save work and access the project whenever.  
 6. Use case ends.\
@@ -158,14 +154,25 @@ CodeHub is a free, self-paced programming education web- application designed to
 **Postconditions**: The user now has a personalized interface.\
 **Main Flow**:
 1. The use case begins when the user accesses the settings.
-2. The user can access privacy settings to choose what personal information is displayed on their profile.
-   a. Alternate Flow: User does not change the default settings.\
-   b. Use case resumes at step 5.
-3. The user can access layout settings and choose colors and layout schemes.
-   a. Alternate Flow: The user likes the default layout and does not change layout settings.\
-   b. Use case resumes at step 5.
+2. The user can access privacy settings to choose what personal information is displayed on their profile.\
+   **Alternate Flow**: User does not change the default settings.\
+   a. Use case resumes at step 5.
+3. The user can access layout settings and choose colors and layout schemes.\
+   **Alternate Flow**: The user likes the default layout and does not change layout settings.\
+   a. Use case resumes at step 5.
 4. The user saves the changes.
 5. The use case ends.
+
+**Use Case**: Grade coding assignments\
+**Actor**: Moderator\
+**Descriptions**: Moderator will ensure users who do the coding projects have accomplished them correctly and provide appropriate feedback. \
+**Preconditions**: Downloaded application, created a profile as a moderator, and have a team.\
+**Postconditions**: User will have graded assignments.\
+**Main Flow**:
+1. The use case begins when the moderator’s team starts an assignment 
+2. Moderator can see each person's progress and grade/comment on what they have done \
+   **Alternative flow 1**: Person hasn’t started an assignment, moderator can give a “to-do” grade
+3. End use case
 
 ## 7. User stories
 
