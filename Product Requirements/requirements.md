@@ -136,6 +136,20 @@ CodeHub is a free, self-paced programming education web- application designed to
 2. User collaborates with other members of the team to complete a project.
 3. End use case.
 
+**Use Case**: Start a project\ 
+**Actor**: User\ 
+**Description**: Users can start a project to work on.\ 
+**Preconditions**: User must have application downloaded and have a profile created.\ 
+**Postconditions**: User will have a saved project.\ 
+**Main Flow**:
+1. The use case begins when the user chooses a project to work on.  
+2. User watches tutorial video.  
+3. User can begin writing code in the IDE.\  
+   a. Alternative flow: User chooses to exit out of the current project to work on something else.\  
+4. User can switch between different projects.  
+5. User can save work and access the project whenever.  
+6. Use case ends
+  
 ## 7. User stories
 
 **User story 1**:“As a user, I want to read about the purpose of programming languages first so I can learn the one that suites my needs.” \
