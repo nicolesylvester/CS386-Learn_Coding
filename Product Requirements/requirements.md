@@ -150,6 +150,22 @@ CodeHub is a free, self-paced programming education web- application designed to
 5. User can save work and access the project whenever.  
 6. Use case ends
   
+**Use Case**: Customize profile\
+**Actor**: User\
+**Description**: Users will be able to change the layout of the application and what/how information in their account is publicly displayed.\
+**Preconditions**: Downloaded application and have a profile.\
+**Postconditions**: The user now has a personalized interface.\
+**Main Flow**:
+1. The use case begins when the user accesses the settings.
+2. The user can access privacy settings to choose what personal information is displayed on their profile.
+   a. Alternate Flow: User does not change the default settings.\
+   b. Use case resumes at step 5.\
+3. The user can access layout settings and choose colors and layout schemes.
+   a. Alternate Flow: The user likes the default layout and does not change layout settings.\
+   b. Use case resumes at step 5.\
+4. The user saves the changes.
+5. The use case ends.
+
 ## 7. User stories
 
 **User story 1**:“As a user, I want to read about the purpose of programming languages first so I can learn the one that suites my needs.” \
