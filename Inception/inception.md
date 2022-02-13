@@ -10,10 +10,13 @@ For those who are curious, want a hobby, or interested in beginning a career, Co
 Future work may include integration into school districts, focusing on elementary and junior high schools, where there is less accessibility for a computer science education. Being able to add a teacher persona to the application that allows them to monitor student’s progress and assist them, as necessary. Another future goal is to include large scale programming projects that will require users to carefully plan their work, and even work in teams. 
 
 ## Initial Value Proposition and Consumer Segments
-**Initial Value Prosition:** 
+Below is the initial value proposition and target consumers that were idealized prior to conducting any costumer interviews.
+
+**Initial Value Proposition:** 
 CodeHub is a free, self-paced programming education web application designed to introduce coding to those with no experience. 
 
-**Consumer Segments:** We aim to target the following audiences
+**Consumer Segments:**
+We aim to target the following audiences:
 - School Districts 
 - Teachers
 - Early education for K-12 students 
@@ -25,18 +28,16 @@ CodeHub is a free, self-paced programming education web application designed to 
 - Gamers and Modders 
 
 ## Summary of Interviews
-"..."
+Listed below is a summary of the 11 constumer interviews conducted. Notably, this includes the features customers would like to see and the ones they could do without.
 
 ### Interview 1
-Interviewer: Bailey Rosato <br/> 
-Interviewee: Shawn Abele <br/>
-Date of Interview: 2/3/2022 <br/>
+_Interviewer: Bailey\
+Interviewee: Shawn Abele\
+Date of Interview: 2/3/2022\
+Consumer Segments: Teacher/School district, Early education_
 
-Consumer Segments:
-- Teacher/School district
-- Early education
-
-**Sumary of Interview:** Technology Integration Educator. 50 years old, has Bachelor’s in Computer Science and Secondary Education. From an educator standpoint, moving away from applications that focus solely on drag-and-drop coding is desired. Self-sufficient learning is important. The independence of the application could make it a must have for K-8 education. 
+**Sumary of Interview:** 
+Technology Integration Educator. 50 years old, has Bachelor’s in Computer Science and Secondary Education. From an educator standpoint, moving away from applications that focus solely on drag-and-drop coding is desired. Self-sufficient learning is important. The independence of the application could make it a must have for K-8 education. 
 
 **Key Insights**
 - Make sure that users must attempt an answer before getting a hint or solution. 
@@ -52,25 +53,37 @@ Consumer Segments:
 - Don’t care - Community discussion/forum
 
 ### Interview 2
-_Interviewer:\
-Interviewee:\
-Date of Interview:
-Consumer Segments:_
+_Interviewer: Bailey\
+Interviewee: Ryan McGaughey\
+Date of Interview: 2/4/2022\
+Consumer Segments: College student, Self-paced learner/Hobbyist_
 
 **Sumary of Interview:**
+Customer was very interested in how the logistics of the applications would work, especially the projects. He had prior experience with CodeHS and recommended looking at it as a comparible application.
 
 **Key Insights**
+- Spend time developing how projects will be scored and passed
+- Include a language reference/comparision page (i.e. where users can look up what language would best serve their future needs)
+- Include a pretest so users don't have to start at ground zero if they already know something
+- No learning languages in parallel, it's not as fast and efficient as just learning one language then another one
+   - Do include fun facts about what applies to multiple languages however
 
 **Relevent Quotes**
+- "Consider walking users through a project as a means of teaching them. For example, have them move a dog around the screen with code. In video on they learn to walk the dog, in future videos they build to the point where they are running the dog through an obstical course."
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
-
+- Projects: Must have
+- Testing out of content: Must have
+- Leaderboards, achievements and the like: Nice to have
+- Dark mode, reminders (user set frequency): Nice to have
+- Live chats: Don't care
+- Parallel learning: Don't care
 
 ### Interview 3
-_Interviewer: Kelene
-Interviewee: Rene Moore
-Date of Interview: 1/31/22
-Consumer Segments: Small Businesses
+_Interviewer: Kelene\
+Interviewee: Rene Moore\
+Date of Interview: 1/31/22\
+Consumer Segments: Small Businesses_
 
 **Sumary of Interview:**
 Discussed how learning web development can help her business. The interviewee prefers the simplest features because she has no coding experience. Also discussed working up to learning other languages.
@@ -91,13 +104,13 @@ Discussed how learning web development can help her business. The interviewee pr
 - Learning multiple languages in parallel: Nice to have
 - Achievements and rewards systems: Don’t care
 - Community hub, or ranking system: Must have
-- Types of projects to work on, for example: game development, large data analysis, web development, app development, etc: Web and app development, nice to have
+- Types of projects to work on, for example: game development, large data analysis, web development, app development, etc: Web and app development: Nice to have
 
 ### Interview 4
-_Interviewer: Kelene
-Interviewee: Scott Moore
-Date of Interview: 2/2/22
-Consumer Segments: Employee Training
+_Interviewer: Kelene\
+Interviewee: Scott Moore\
+Date of Interview: 2/2/22\
+Consumer Segments: Employee Training_
 
 **Sumary of Interview:**
 The interviewee had a lot of information and suggestions. Discussed this app being used by companies training their employees. Also discussed having live chats, a simple IDE to start off, and then a more advanced IDE like Eclipse once you gain more coding experience.
@@ -118,14 +131,14 @@ The interviewee had a lot of information and suggestions. Discussed this app bei
 - Learning multiple languages in parallel: Nice to have
 - Achievements and rewards systems: Nice to have
 - Community hub, or ranking system: Must have (somewhere to ask questions)
-- Types of projects to work on, for example: game development, large data analysis, web development, app development, etc: Nice to have as you move up
+- Types of projects to work on, for example: game development, large data analysis, web development, app development, etc.: Nice to have as you move up
 
 
 ### Interview 5
-_Interviewer: Nicole 
-Interviewee: Jake Sylvester
-Date of Interview: 2/4/2022
-Consumer Segments: High School Student, Gamer, Self-taught Coder
+_Interviewer: Nicole\
+Interviewee: Jake Sylvester\
+Date of Interview: 2/4/2022\
+Consumer Segments: High School Student, Gamer, Self-taught Coder_
 
 **Sumary of Interview:**
 Brother, 15, a high school student, he wants to learn video game development in different languages at his own pace in order to improve his skills and modify his games. It is important that the webapp is customizable and easy to use. 
@@ -142,18 +155,18 @@ Brother, 15, a high school student, he wants to learn video game development in 
 - “I want the webapp to be customizable and to be able to pick an interface color”
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
-- Weekly coding reminders (Nice)
-- Multiple Languages (Must)
-- Ranking system (Don’t Care)
-- Community hub (Nice)
-- Game development Projects (Must)
-- Dark Mode for Night Coding (Nice)
+- Weekly coding reminders:Nice to have
+- Multiple Languages: Must have
+- Ranking system: Don’t care
+- Community hub: Nice to have
+- Game development Projects: Must have
+- Dark Mode for Night Coding: Nice to have
 
 ### Interview 6
-_Interviewer: Nicole
-Interviewee: Dawn Sylvester
-Date of Interview: 2/3/2022
-Consumer Segments: Mayo Clinic Health Care Financing Representative, Parent
+_Interviewer: Nicole\
+Interviewee: Dawn Sylvester\
+Date of Interview: 2/3/2022\
+Consumer Segments: Mayo Clinic Health Care Financing Representative, Parent_
 
 **Sumary of Interview:**
  Mom, 50, She wants to be able to learn code applicable to her job. She is interested in the webapp if it was in a game format, and doesn't want it to be overwhelming. She wants it to be customizable and believes it would be a good tool for her son to learn to code.
@@ -171,18 +184,18 @@ Consumer Segments: Mayo Clinic Health Care Financing Representative, Parent
 - “I love the thought of a community hub or chat room that lets you share ideas and gain perspective.”
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
-- Weekly Reminders that are not during the workday or at night (Must)
-- Multiple Languages (Don't care)
-- Achievements and Ranking system (Nice)
-- Chat Room (Must)
-- Variety of types of projects (Must)
-- Simple, non-overwhelming colors and customizable (Nice)
+- Weekly Reminders that are not during the workday or at night: Must have
+- Multiple Languages: Don't care
+- Achievements and Ranking system: Nice to have
+- Chat Room: Must have
+- Variety of types of projects: Must have
+- Simple, non-overwhelming colors and customizable: Nice to have
 
 ### Interview 7
-_Interviewer:_ Nasya Valenzuela\
-_Interviewee:_ Mya Davis\
-_Date of Interview:_ 02/02/2022\
-_Consumer Segments:_ Supplemental Education for high school and college students
+_Interviewer: Nasya\
+Interviewee: Mya Davis\
+Date of Interview: 02/02/2022\
+Consumer Segments: Supplemental Education for high school and college students_
 
 **Sumary of Interview:**
 Good idea but it could get complicated and confusing really fast. Good to use when you are starting out or when you dont understand right away. It need to be clear and separate the languages well so that they don't start mixing.
@@ -203,10 +216,10 @@ Good idea but it could get complicated and confusing really fast. Good to use wh
 - Dark mode: Must have
 
 ### Interview 8
-_Interviewer:_ Nasya Valenzuela\
-_Interviewee:_ Samantha Nearing\
-_Date of Interview:_ 02/03/2022\
-_Consumer Segments:_ Supplemental Education for high school and college students
+_Interviewer: Nasya\
+Interviewee: Samantha Nearing\
+Date of Interview: 02/03/2022\
+Consumer Segments: Supplemental Education for high school and college students_
 
 **Sumary of Interview:**
 Very interesting idea, and would be really helpful at the beginning of college. Fun and easy projects would the best way to get people to learn, and having a variety would make everyone using it happy. 
@@ -227,18 +240,72 @@ Very interesting idea, and would be really helpful at the beginning of college. 
 - Rewards System: Must have
 
 ### Interview 9
-_Interviewer:\
-Interviewee:\
-Date of Interview:
-Consumer Segments:_
+_Interviewer: Ian\
+Interviewee: Ben Dennis\
+Date of Interview: 2/6/2022\
+Consumer Segments: Self-paced learner/Hobbiest, Small Business_
 
 **Sumary of Interview:**
+The idea of project based learning is a good one. According to the customer the best learning is done by jumping in headfirst
+and trying to accomplish something. Additionally having as many learning methods available as possible is critical. As is making
+the content accessible to people who are not in an educational environment and have little to no prior formal education.
 
 **Key Insights**
+- Include projects, data analysis projects would be great. As would anything that could apply towards 3D modelling.
+- Make accessible to younger audience especially
+- Outside features (reminders, chats, achievements/rankings, etc.) should all be included because they encourage some people. They should have an option to turn them off however.
 
 **Relevent Quotes**
+- "The earlier people are exposed to technologies the better."
+- "In the past, wathing a video for basic concepts, reading manuels for reference, and a hands on project for actually learning and remembering the concepts is how I've learned best."
 
 **Consumer Assessment (Must have/Nice to have/Don't care)**
+- Projects to work on: Must have
+- Labels explaining what every button on the app does: Must have
+- Achievements and rewards, rankings, and a dark mode: Nice to have
+- Abililty to learn multiple languages in parallel: Don't care
 
-## Revised Value Proposition and COnsumer Segments
-"..."
+### Interview 10
+_Interviewer: Ian\
+Interviewee: Mary Dennis\
+Date of Interview: 2/4/2022\
+Consumer Segments: Employee Traning, Teacher_
+
+**Sumary of Interview:**
+Customer has no code experience and hates working with computers. However, having an app that teaches coding and computer literacy would be extremely helpful for work where a lot of the software is out of date and unintuitive. Working from the very basics up with plenty of video examples would be key.
+
+**Key Insights**
+- Include a lot of video walthroughs. No more that 15 minutes per video.
+- Include a branch out tab that shows similiar things to what the user is doing (i.e. how the objects you're using in Java might apply in C#). This could replace learning languages in parallel.
+- Clear layout and defined buttons + optional navigation tutorial
+- Allow people to achieve a "mentor" role if they progress far enough in a course
+
+**Relevent Quotes**
+- "I personally would only be motivated by projects that are inately motivating. Doing an in depth coding project that doesn't benefit me in the future would seem like a waste of time to me."
+- "The layout should start very descriptive. User's who don't want every button and action labelled can have the option to turn it off."
+
+**Consumer Assessment (Must have/Nice to have/Don't care)**
+- Video tutorials: Must have
+- Descriptive layout: Must have
+- Secure/virus free: Must have
+- Community hub, forums, and peer assistance: Nice to have
+- Rankings, reminders, and achievements: Don't care
+- Projects: Don't care
+
+## Revised Value Proposition and Consumer Segments
+After conducting costumer interviews, the initial value proposition and cunsumer segments were updated to the following.
+
+**Initial Value Proposition**
+CodeHub is a free, self-paced programming education web- application designed to teach coding to all ages at any level of coding experience.
+
+**Consumer Segments**
+- School Districts 
+- Teachers
+- Early education for K-12 students 
+- Supplemental Education for high school and college students 
+- Self-paced Learners 
+- Employee Training 
+- Small Businesses 
+- Hobbyist
+- Gamers and Modders
+- Other Educators
