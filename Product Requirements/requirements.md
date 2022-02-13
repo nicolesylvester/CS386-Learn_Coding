@@ -136,20 +136,21 @@ CodeHub is a free, self-paced programming education web- application designed to
 2. User collaborates with other members of the team to complete a project.
 3. End use case.
 
-**Use Case**: Start a project\ 
-**Actor**: User\ 
-**Description**: Users can start a project to work on.\ 
-**Preconditions**: User must have application downloaded and have a profile created.\ 
-**Postconditions**: User will have a saved project.\ 
+**Use Case**: Start a project\
+**Actor**: User\
+**Description**: Users can start a project to work on.\
+**Preconditions**: User must have application downloaded and have a profile created.\
+**Postconditions**: User will have a saved project.\
 **Main Flow**:
 1. The use case begins when the user chooses a project to work on.  
 2. User watches tutorial video.  
-3. User can begin writing code in the IDE.\  
-   a. Alternative flow: User chooses to exit out of the current project to work on something else.\  
+3. User can begin writing code in the IDE.\
+   a. Alternative flow: User chooses to exit out of the current project to work on something else.  
 4. User can switch between different projects.  
 5. User can save work and access the project whenever.  
-6. Use case ends
+6. Use case ends.\
   
+ 
 **Use Case**: Customize profile\
 **Actor**: User\
 **Description**: Users will be able to change the layout of the application and what/how information in their account is publicly displayed.\
@@ -159,10 +160,10 @@ CodeHub is a free, self-paced programming education web- application designed to
 1. The use case begins when the user accesses the settings.
 2. The user can access privacy settings to choose what personal information is displayed on their profile.
    a. Alternate Flow: User does not change the default settings.\
-   b. Use case resumes at step 5.\
+   b. Use case resumes at step 5.
 3. The user can access layout settings and choose colors and layout schemes.
    a. Alternate Flow: The user likes the default layout and does not change layout settings.\
-   b. Use case resumes at step 5.\
+   b. Use case resumes at step 5.
 4. The user saves the changes.
 5. The use case ends.
 
