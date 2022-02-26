@@ -12,5 +12,5 @@ The problem of accessing the world of computer programming affects the general p
 On their **homepage**, **users** can track their *progress*, check *updates*, and participate in *chats*. Users can <ins>access</ins> their **groups** from the **homepage** and can join or leave groups using a *group ID*. The **moderator** can create or remove **groups** and *group members* as well as oversee activities. Once in a **group**, users can *send* and *receive* messages in that specific **group chat** and the **moderator** can monitor chats. The **homepage** also <ins>displays</ins> the users' **rankings** and their **unit courses**. This includes the next activities they must complete and any related videos. Users can view their *progress* in a **unit course**. How well they progress in their **unit course(s)** <ins>determines</ins> their rank. **Users** can get help in a community **forum** by *asking* questions and *responding* to other users. **Moderators** <ins>manage</ins> the **forum** and provide <ins>quality</ins> feedback. 
 
 ## 2. Model
-
+![alt text](https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/Project%20Analysis/Analysis%20Model.drawio.png)
 
