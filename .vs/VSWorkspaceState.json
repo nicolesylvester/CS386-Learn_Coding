@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\implementation",
+    "\\implementation\\codeHub",
+    "\\implementation\\codeHub\\obj",
+    "\\implementation\\codeHub\\Pages",
+    "\\implementation\\codeHub\\Pages\\Shared",
+    "\\implementation\\codeHub\\wwwroot",
+    "\\implementation\\codeHub\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\implementation\\codeHub\\codeHub.csproj",
+  "PreviewInSolutionExplorer": false
+}

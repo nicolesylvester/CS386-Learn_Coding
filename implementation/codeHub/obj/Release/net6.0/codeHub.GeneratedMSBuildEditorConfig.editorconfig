@@ -8,16 +8,12 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = codeHub
 build_property.RootNamespace = codeHub
-build_property.ProjectDir = C:\Users\baile\source\repos\baileyrosato\CS386-Learn_Coding\implementation\codeHub\
+build_property.ProjectDir = C:\Users\baile\Source\Repos\baileyrosato\CS386-Learn_Coding\implementation\codeHub\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\baile\source\repos\baileyrosato\CS386-Learn_Coding\implementation\codeHub
+build_property.MSBuildProjectDirectory = C:\Users\baile\Source\Repos\baileyrosato\CS386-Learn_Coding\implementation\codeHub
 build_property._RazorSourceGeneratorDebug = 
-
-[C:/Users/baile/source/repos/baileyrosato/CS386-Learn_Coding/implementation/codeHub/Pages/Courses.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/baile/source/repos/baileyrosato/CS386-Learn_Coding/implementation/codeHub/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
@@ -27,20 +23,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/baile/source/repos/baileyrosato/CS386-Learn_Coding/implementation/codeHub/Pages/Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/baile/source/repos/baileyrosato/CS386-Learn_Coding/implementation/codeHub/Pages/QA.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUUEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/baile/source/repos/baileyrosato/CS386-Learn_Coding/implementation/codeHub/Pages/References.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVmZXJlbmNlcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/baile/source/repos/baileyrosato/CS386-Learn_Coding/implementation/codeHub/Pages/Settings.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3MuY3NodG1s
+[C:/Users/baile/source/repos/baileyrosato/CS386-Learn_Coding/implementation/codeHub/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/baile/source/repos/baileyrosato/CS386-Learn_Coding/implementation/codeHub/Pages/Shared/_ValidationScriptsPartial.cshtml]
