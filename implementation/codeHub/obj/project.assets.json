@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\valen\\.nuget\\packages\\": {}
+    "C:\\Users\\baile\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valen\\source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
+      "projectUniqueName": "C:\\Users\\baile\\source\\repos\\baileyrosato\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
       "projectName": "codeHub",
-      "projectPath": "C:\\Users\\valen\\source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
-      "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valen\\source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\obj\\",
+      "projectPath": "C:\\Users\\baile\\source\\repos\\baileyrosato\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
+      "packagesPath": "C:\\Users\\baile\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\baile\\source\\repos\\baileyrosato\\CS386-Learn_Coding\\implementation\\codeHub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\baile\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
