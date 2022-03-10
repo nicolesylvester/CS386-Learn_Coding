@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace codeHub.Pages
 {
-    public class PrivacyModel : PageModel
+    public class ProfileModel : PageModel
     {
-        private readonly ILogger<PrivacyModel> _logger;
+        private readonly ILogger<ProfileModel> _logger;
 
-        public PrivacyModel(ILogger<PrivacyModel> logger)
+        public ProfileModel(ILogger<ProfileModel> logger)
         {
             _logger = logger;
         }

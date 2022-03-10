@@ -3,12 +3,9 @@
     "",
     "\\implementation",
     "\\implementation\\codeHub",
-    "\\implementation\\codeHub\\obj",
     "\\implementation\\codeHub\\Pages",
-    "\\implementation\\codeHub\\Pages\\Shared",
-    "\\implementation\\codeHub\\wwwroot",
-    "\\implementation\\codeHub\\wwwroot\\js"
+    "\\implementation\\codeHub\\Pages\\Shared"
   ],
-  "SelectedNode": "\\implementation\\codeHub\\codeHub.csproj",
+  "SelectedNode": "\\implementation\\codeHub\\Pages\\Index.cshtml.cs",
   "PreviewInSolutionExplorer": false
 }
