@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicci\\.nuget\\packages\\": {}
+    "C:\\Users\\iande\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
+      "projectUniqueName": "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
       "projectName": "codeHub",
-      "projectPath": "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
-      "packagesPath": "C:\\Users\\nicci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\implementation\\codeHub\\obj\\",
+      "projectPath": "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
+      "packagesPath": "C:\\Users\\iande\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\nicci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
