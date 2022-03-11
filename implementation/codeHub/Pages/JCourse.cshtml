@@ -1,0 +1,24 @@
+﻿@page
+@model JCourseModel
+@{
+    ViewData["Title1"] = "My Courses";
+    ViewData["Title2"] = "Available Courses";
+}
+
+<h1>@ViewData["Title1"]</h1>
+<div>
+    <!--auto log enrolled courses w/below format-->
+    <h2>Python</h2>
+    <p>Course Progress</p>
+    <p>Last activity</p>
+    <a href="Error">Pick up were you left off!</a>
+</div>
+
+
+<h1>@ViewData["Title2"]</h1>
+<div>
+    <h2><a href="Courses">Getting Started</a></h2>
+    <h2><a href="Courses">Python</a></h2>
+    <h2><a href="Courses">Java</a></h2>
+    <h2><a href="Courses">Web Development</a></h2>
+</div>

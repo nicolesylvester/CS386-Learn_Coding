@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace codeHub.Pages
 {
-    public class ReferencesModel : PageModel
+    public class PyCourseModel : PageModel
     {
-        private readonly ILogger<ReferencesModel> _logger;
+        private readonly ILogger<PyCourseModel> _logger;
 
-        public ReferencesModel(ILogger<ReferencesModel> logger)
+        public PyCourseModel(ILogger<PyCourseModel> logger)
         {
             _logger = logger;
         }
