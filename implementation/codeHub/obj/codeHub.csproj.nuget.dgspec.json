@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj": {}
+    "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj": {
+    "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
+        "projectUniqueName": "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
         "projectName": "codeHub",
-        "projectPath": "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
-        "packagesPath": "C:\\Users\\iande\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\implementation\\codeHub\\obj\\",
+        "projectPath": "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\implementation\\codeHub\\codeHub.csproj",
+        "packagesPath": "C:\\Users\\nicci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\implementation\\codeHub\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\iande\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nicci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
