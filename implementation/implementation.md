@@ -8,6 +8,37 @@ CodeHub is a free, self-paced programming education web-application designed to 
 
 GitHub link: https://github.com/ind9-nau/CS386-Learn_Coding.git 
 
+### 2. Implemented Requirements (Bailey) 
+
+**(1)**
+
+**Requirement:** “As a user, I want to be able to customize my profile so that the webapp is customized to my information and style” 
+
+**Issue:** https://github.com/ind9-nau/CS386-Learn_Coding/issues/9 
+
+**Pull Request:** https://github.com/ind9-nau/CS386-Learn_Coding/pull/30 
+
+**Implemented by:** Nicole Sylvester  
+
+**Approved by:** Bailey Rosato  
+
+**Print screen:** ![Screenshot (12)](https://user-images.githubusercontent.com/71994157/159208334-745ff381-d8fc-44bd-8d75-b44d0e3a0cd1.png)
+
+**(2)**
+
+**Requirement:** “As a user I want a basic settings menu to easily navigate the webapp.”  
+
+**Issue:** https://github.com/ind9-nau/CS386-Learn_Coding/issues/17 
+
+**Pull Request:** https://github.com/ind9-nau/CS386-Learn_Coding/pull/29 
+
+**Implemented by:** Ian Dennis 
+
+**Approved by:** Ian Dennis  
+
+**Print screen:**  ![Screenshot (15)](https://user-images.githubusercontent.com/71994157/159208708-ba65dbca-333c-4cfa-beca-be2e7f61dc40.png)
+
+
 ### 4. Adopted technologies (Nasya) 
 
 List the adopted technologies with a brief description and justification for choosing them.  
