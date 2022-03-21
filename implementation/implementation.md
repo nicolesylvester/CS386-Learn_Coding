@@ -38,16 +38,6 @@ Inform the license you adopted for your source code (remember to configure GitHu
 
 Our team chose to adopt the MIT license for our source code. We chose this license because it is one of the most simple open source license agreements. It allows our group to easily make changes to the code. Anyone who has a copy of the software and files can use, copy, modify, merge, distribute, and publish copies of the software. The MIT license has minimal restrictions and lets us work efficiently. 
 
-### 9. Look & feel (Nicole) 
-
-Describe the approach you adopted to design your user interface. Include some screenshots. 
-
-During our interviews, we received input about simplicity. We wanted a clean and simple interface that anyone could navigate. The initial development sketches of the interface were used to decide the different tabs we needed to navigate to and the different pages we needed to create. The pages have coming soon messages because for this implementation, we really wanted to create a simple interface and have users be able to register and sign in. However, we plan to add to the Question and Answer Forum and Courses for the next implementation. We are using many of the Visual Studio project generated files as templates and adding and changing the code to make it fit our design.  
-
-![Screenshot (20)](https://user-images.githubusercontent.com/71994185/159208830-2a5f4e0f-b36d-4c8d-be22-7359f8c0f63d.png)
-![Screenshot (23)](https://user-images.githubusercontent.com/71994185/159208950-f8174182-103f-4721-872a-cb1f26805c9e.png)
-![Screenshot (24)](https://user-images.githubusercontent.com/71994185/159208978-c3cd14d6-facb-462f-b3c1-4e33bab67285.png)
-
 
 ### 10.Lessons learned (Nasya) 
 
