@@ -69,6 +69,18 @@ Inform the license you adopted for your source code (remember to configure GitHu
 
 Our team chose to adopt the MIT license for our source code. We chose this license because it is one of the most simple open source license agreements. It allows our group to easily make changes to the code. Anyone who has a copy of the software and files can use, copy, modify, merge, distribute, and publish copies of the software. The MIT license has minimal restrictions and lets us work efficiently. 
 
+**README**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/README.md
+
+**Contributing**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/CONTRIBUTING.md
+
+**Code of Conduct**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/CODE_OF_CONDUCT.md
+
+**Liscense**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/LICENSE
+
 ### 10.Lessons learned (Nasya) 
 
 In retrospective, describe what your team learned during this first release and what you are planning to change for the second release.  
