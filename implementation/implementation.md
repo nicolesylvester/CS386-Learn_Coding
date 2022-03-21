@@ -8,6 +8,37 @@ CodeHub is a free, self-paced programming education web-application designed to 
 
 GitHub link: https://github.com/ind9-nau/CS386-Learn_Coding.git 
 
+### 2. Implemented Requirements (Bailey) 
+
+**(1)**
+
+**Requirement:** “As a user, I want to be able to customize my profile so that the webapp is customized to my information and style” 
+
+**Issue:** https://github.com/ind9-nau/CS386-Learn_Coding/issues/9 
+
+**Pull Request:** https://github.com/ind9-nau/CS386-Learn_Coding/pull/30 
+
+**Implemented by:** Nicole Sylvester  
+
+**Approved by:** Bailey Rosato  
+
+**Print screen:** ![Screenshot (12)](https://user-images.githubusercontent.com/71994157/159208334-745ff381-d8fc-44bd-8d75-b44d0e3a0cd1.png)
+
+**(2)**
+
+**Requirement:** “As a user I want a basic settings menu to easily navigate the webapp.”  
+
+**Issue:** https://github.com/ind9-nau/CS386-Learn_Coding/issues/17 
+
+**Pull Request:** https://github.com/ind9-nau/CS386-Learn_Coding/pull/29 
+
+**Implemented by:** Ian Dennis 
+
+**Approved by:** Ian Dennis  
+
+**Print screen:**  ![Screenshot (15)](https://user-images.githubusercontent.com/71994157/159208708-ba65dbca-333c-4cfa-beca-be2e7f61dc40.png)
+
+
 ### 4. Adopted technologies (Nasya) 
 
 List the adopted technologies with a brief description and justification for choosing them.  
@@ -37,6 +68,18 @@ Describe how you are deploying your system in production. If you are using AWS, 
 Inform the license you adopted for your source code (remember to configure GitHub accordingly). Explain why you adopted this license. For more information, check https://choosealicense.com/ and http://redhat.slides.com/glikins/open-sourcelicensing-101#/  
 
 Our team chose to adopt the MIT license for our source code. We chose this license because it is one of the most simple open source license agreements. It allows our group to easily make changes to the code. Anyone who has a copy of the software and files can use, copy, modify, merge, distribute, and publish copies of the software. The MIT license has minimal restrictions and lets us work efficiently. 
+
+**README**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/README.md
+
+**Contributing**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/CONTRIBUTING.md
+
+**Code of Conduct**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/CODE_OF_CONDUCT.md
+
+**Liscense**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/LICENSE
 
 ### 10.Lessons learned (Nasya) 
 
