@@ -8,6 +8,37 @@ CodeHub is a free, self-paced programming education web-application designed to 
 
 GitHub link: https://github.com/ind9-nau/CS386-Learn_Coding.git 
 
+### 2. Implemented Requirements (Bailey) 
+
+**(1)**
+
+**Requirement:** “As a user, I want to be able to customize my profile so that the webapp is customized to my information and style” 
+
+**Issue:** https://github.com/ind9-nau/CS386-Learn_Coding/issues/9 
+
+**Pull Request:** https://github.com/ind9-nau/CS386-Learn_Coding/pull/30 
+
+**Implemented by:** Nicole Sylvester  
+
+**Approved by:** Bailey Rosato  
+
+**Print screen:** ![Screenshot (12)](https://user-images.githubusercontent.com/71994157/159208334-745ff381-d8fc-44bd-8d75-b44d0e3a0cd1.png)
+
+**(2)**
+
+**Requirement:** “As a user I want a basic settings menu to easily navigate the webapp.”  
+
+**Issue:** https://github.com/ind9-nau/CS386-Learn_Coding/issues/17 
+
+**Pull Request:** https://github.com/ind9-nau/CS386-Learn_Coding/pull/29 
+
+**Implemented by:** Ian Dennis 
+
+**Approved by:** Ian Dennis  
+
+**Print screen:**  ![Screenshot (15)](https://user-images.githubusercontent.com/71994157/159208708-ba65dbca-333c-4cfa-beca-be2e7f61dc40.png)
+
+
 ### 4. Adopted technologies (Nasya) 
 
 List the adopted technologies with a brief description and justification for choosing them.  
@@ -38,6 +69,31 @@ Inform the license you adopted for your source code (remember to configure GitHu
 
 Our team chose to adopt the MIT license for our source code. We chose this license because it is one of the most simple open source license agreements. It allows our group to easily make changes to the code. Anyone who has a copy of the software and files can use, copy, modify, merge, distribute, and publish copies of the software. The MIT license has minimal restrictions and lets us work efficiently. 
 
+### 8. Readme File (Ian)
+
+You should also prepare your repository for receiving new contributors. You should prepare a Readme.md file. See an example at https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 In the Readme file, the current version should be stated. You should follow the Semantic Versioning schema (https://semver.org/). Tag the GitHub repository accordingly (https://gitscm.com/book/en/v2/Git-Basics-Tagging).  
+
+Your repository should contain a CONTRIBUTING.md file, a LICENSE file, and a CODE_OF_CONDUCT.md file. Search online for some examples of these files. In this section of the deliverable, put links to these files on GitHub.  
+
+**README**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/README.md
+
+**Contributing**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/CONTRIBUTING.md
+
+**Code of Conduct**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/CODE_OF_CONDUCT.md
+
+**Liscense**
+https://github.com/ind9-nau/CS386-Learn_Coding/blob/main/LICENSE
+
+### 9. Look & Feel (Nicole)
+Describe the approach you adopted to design your user interface. Include some screenshots. 
+
+During our interviews, we received input about simplicity. We wanted a clean and simple interface that anyone could navigate. The initial development sketches of the interface were used to decide the different tabs we needed to navigate to and the different pages we needed to create. The pages have coming soon messages because for this implementation, we really wanted to create a simple interface and have users be able to register and sign in. However, we plan to add to the Question and Answer Forum and Courses for the next implementation. We are using many of the Visual Studio project generated files as templates and adding and changing the code to make it fit our design.  
+![Screenshot (20)](https://user-images.githubusercontent.com/71994157/159210324-1cfd6090-aa8c-491e-9c56-a2ede29dc3ae.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/71994157/159210375-11eee07b-cfe4-40ae-ba1e-75bc06f0b8e5.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/71994157/159210382-1c7ca6e6-18d2-4d98-b57f-46f6c2e5257d.png)
 
 ### 10.Lessons learned (Nasya) 
 
