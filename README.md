@@ -44,11 +44,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/ind9-nau/CS386-Learn_Coding). 
 
 ## Authors
-- Ian Dennis 
-- Kelene Moore
-- Bailey Rosato 
-- Nicole Sylvester
-- Nasya Valenzuela 
+- Ian Dennis (ind9@nau.edu)
+- Kelene Moore (km2896@nau.edu)
+- Bailey Rosato (bdr245@nau.edu)
+- Nicole Sylvester (nes237@nau.edu)
+- Nasya Valenzuela (nv339@nau.edu)
 
 ## License
 
