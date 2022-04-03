@@ -20,6 +20,28 @@ The difference between this class diagram and the one that you presented in D.3 
 ### 4. Sequence Diagram (Nicole)  
 Present a sequence diagram that represents how the objects in your system interact for a specific use case. Also include the use case description in this section. The sequence diagram should be consistent with the class diagram and architecture. 
 
+![SequenceDiagram (1)](https://user-images.githubusercontent.com/71994185/161448243-740c98ca-6815-4a9a-9e69-4642016482f0.jpg)
+
+##### Use Case Description: 
+Use Case: Login to Profile  
+Actor: Web application User  
+Description: A user will login to their account  
+Preconditions: User has the application open and has clicked on the “Login” tab  
+Postconditions: The user has logged in and can navigate the application  
+Main Flow: 
+1. The user enters an email 
+2. The user enters their password 
+3. The user clicks Login 
+4. The system redirects the user to the Homepage 
+
+Alternative Flow: 
+1. a. The user’s email is not registered 
+      - The system shows the not registered error message and prompts user to create an account  
+   b. Use Case Ends 
+3. a. The user’s passwords or email are incorrect 
+      - The system shows the incorrect information error message to the user  
+   b. Use Case continues at 1 
+
 ### 5. Design Patterns (Bailey) 
 Split this section into 2 subsections. For each subsection, present a UML class diagram showing the application of a design pattern to your system (a different pattern for each section). Each class diagram should contain only the classes involved in the specific pattern (you don’t need to represent the whole system). Choose patterns from two different categories: Behavioral, Structural, and Creational. You are not limited to design patterns studied in class. 
 Your system may not be appropriate for any design pattern. In this case, for didactic purposes, be creative and extend a little bit the scope of your system to make the design patterns appropriate. 
