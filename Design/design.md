@@ -18,6 +18,9 @@ This architecture was designed with a standard web application in mind. It needs
 Present a refined class diagram of your system, including implementation details such as visibilities, attributes to represent associations, attribute types, return types, parameters, etc. The class diagram should match the code you have produced so far, but not be limited to it (e.g., it can contain classes not implemented yet). 
 The difference between this class diagram and the one that you presented in D.3 is that the last focuses on the conceptual model of the domain while the former reflects the implementation. Therefore, the implementation details are relevant in this case. 
 
+![Analysis Model](https://user-images.githubusercontent.com/71994157/161472959-5957a471-18c8-445c-b6b3-661c8e057524.jpg)
+
+
 ### 4. Sequence Diagram (Nicole)  
 Present a sequence diagram that represents how the objects in your system interact for a specific use case. Also include the use case description in this section. The sequence diagram should be consistent with the class diagram and architecture. 
 
