@@ -60,17 +60,23 @@ Split this section into 2 subsections. For each subsection, present a UML class 
 How does your design observe the SOLID principles? Provide a short description of followed
 principles giving concrete examples from your classes. 
 
-**Single Responsibility Principle:** The UserInfo class is an example of this because it only has to get the information inputted by the user when it creates a profile or is changed in settings. 
+**Single Responsibility Principle:** States that each class should only have one responsibility. The Notifications class is an example of this because it only sends a message to the user once preferences are selected. 
 
-**Open/Closed Principle:** The Group class is an example of the principle because it does not change when a member joins a group. 
+<img width="250" alt="singletonclass" src="https://user-images.githubusercontent.com/71994157/161480875-dd18ea55-3696-45cc-89cb-dae7eecb3530.jpg">
 
-**Liskov Substitution Principle:** In this case you can replace notifDecorator with emailDecorator, or SMSDecorator, depending on the situation without it affecting the program. 
+**Open/Closed Principle:** Software entities should be open for extension but closed for modification. The GroupChat class is an example of the principle becauseit extends the information of the Group class, but cannot modify the attributes of the Group class. 
+
+<img width="250" alth="openclosedprinciple" src="https://user-images.githubusercontent.com/71994157/161481431-a8143477-6b48-4764-ba13-155a599404b2.jpg">
+
+**Liskov Substitution Principle:** “any subclass object should be substitutable for the superclass object from which it is derived” <br> 
+In this case you can replace notifDecorator with emailDecorator, or SMSDecorator, depending on the situation without it affecting the program. 
 
 <img width="250" alt="Screenshot 2022-04-03 214447" src="https://user-images.githubusercontent.com/71862426/161476008-2f7b743a-58ff-4f23-bc40-75c4e0de03fd.png">
 
-**Interface Segregation Principle:** We see this principle in our architecture when we use different interfaces where we have the Presentation Layer and the resources Layer as well as in the Case Diagram where we have interfaces for when users use the IDE and their homepage. 
+**Interface Segregation Principle:** “many client-specific interfaces are better than one general purpose interface.” <br>
+We see this principle in our architecture when we use different interfaces where we have the Presentation Layer and the resources Layer as well as in the Case Diagram where we have interfaces for when users use the IDE and their homepage. 
 
-**Dependency Inversion Principle:** Here we see how messageObserver manages sendMessage and receiveMessage, GroupChat depends on messageObserver(an abstraction) to handle the other classes. 
+**Dependency Inversion Principle:** High-level modules, which provide complex logic, should be easily reusable and unaffected by changes in modules under. Here we see how messageObserver manages sendMessage and receiveMessage, GroupChat depends on messageObserver(an abstraction) to handle the other classes. 
 
 <img width="250" alt="Screenshot 2022-04-03 214954" src="https://user-images.githubusercontent.com/71862426/161475953-79d63dd4-28bc-49b4-9046-f53ec521a497.png">
 
