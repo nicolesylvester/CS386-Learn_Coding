@@ -12,6 +12,7 @@ Present a diagram of the high-level architecture of your system. Use a UML packa
 Provide a brief rationale of your architecture explaining why you designed it that way. 
 
 This architecture was designed with a standard web application in mind. It needs to receive interactions from clients and web services (the web services will be used for code IDEs).  Both of these will need their own interfaces so they can interact with our application. Beyond that the Application Layer is meant to give feedback to our users and coordinate any communication between users. The Security Layer is meant to protect users and their privacy. Lastly, the data layer is meant to handle most of the processing and any storage/retrieval of information from the server. This setup should lead to maintainable and expandable application. Layouts similar to this seemed to be standard for systems such as ours. 
+![CS386 UML Architecture](https://user-images.githubusercontent.com/71994185/161472171-f8b798f1-745c-47dc-82fd-53a0f54554e7.jpeg)
 
 ### 3. Class Diagram (Kelene) 
 Present a refined class diagram of your system, including implementation details such as visibilities, attributes to represent associations, attribute types, return types, parameters, etc. The class diagram should match the code you have produced so far, but not be limited to it (e.g., it can contain classes not implemented yet). 
