@@ -1,6 +1,7 @@
 ## Design
 
 ### 1. Description
+Provide 1-2 paragraphs to describe your system. This will help you understand the context of your design decisions. You can reuse and update text from the previous deliverables.  
 
 CodeHub is a free, self-paced programming education web-application designed to teach coding to those with no experience. The primary features of CodeHub include allowing users to register and login. Once the user has an account, they are directed to a nice, simplistic homepage that informs users about the application. CodeHub has tabs on the top of the page for navigating from the homepage to a profile, Q&A, and courses. The user can change their username, password, and phone number on their profile. 
 
