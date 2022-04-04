@@ -74,7 +74,9 @@ In this case you can replace notifDecorator with emailDecorator, or SMSDecorator
 <img width="250" alt="Screenshot 2022-04-03 214447" src="https://user-images.githubusercontent.com/71862426/161476008-2f7b743a-58ff-4f23-bc40-75c4e0de03fd.png">
 
 **Interface Segregation Principle:** “many client-specific interfaces are better than one general purpose interface.” <br>
-We see this principle in our architecture when we use different interfaces where we have the Presentation Layer and the resources Layer as well as in the Case Diagram where we have interfaces for when users use the IDE and their homepage. 
+We see this principle in our class diagram when we use different interfaces. The Unit Course, Settings, and Group all modify the Homepage interface specified for the user. These split the Homepage interface so that the users only get information specific to their interests. 
+<img width="250" alt="Screenshot (33)" src="https://user-images.githubusercontent.com/71994185/161482416-0b307acc-1bd6-4735-b828-54e59909de7f.png">
+
 
 **Dependency Inversion Principle:** High-level modules, which provide complex logic, should be easily reusable and unaffected by changes in modules under. Here we see how messageObserver manages sendMessage and receiveMessage, GroupChat depends on messageObserver(an abstraction) to handle the other classes. 
 
