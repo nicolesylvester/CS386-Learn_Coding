@@ -47,5 +47,12 @@ Split this section into 2 subsections. For each subsection, present a UML class 
 Your system may not be appropriate for any design pattern. In this case, for didactic purposes, be creative and extend a little bit the scope of your system to make the design patterns appropriate. 
 Implement each design pattern in your system and provide GitHub links to the corresponding classes. 
 
+##### (1) Structural: Decorator Pattern
+![decoratorpattern](https://user-images.githubusercontent.com/71994157/161448724-04bf9931-385f-4ee5-bf80-b06f6861ac0b.jpg)
+
+##### (2) Behavioral: Observer Pattern 
+
+![observerpattern](https://user-images.githubusercontent.com/71994157/161448730-2322269b-e284-413e-8d91-e513f7dce7f9.jpg)
+
 ### 6. Design Principles (Nasya) 
 How does your design observe the SOLID principles? Provide a short description of followed principles giving concrete examples from your classes. 
