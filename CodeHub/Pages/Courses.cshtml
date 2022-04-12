@@ -8,12 +8,37 @@
 <style>
     .message, h1{
         color: forestgreen;
+        font-family: 'Varela Round', sans-serif;
     }
+
+    p{
+        color: forestgreen;
+        font-size: 20px;
+        font-family: 'Varela Round', sans-serif;
+    }
+
 </style>
 
-<div class="message">
-    <p>Python3 IDE</p>
-</div>
+@*
+    code to navigate from the course page to python or web dev courses
+*@
 
-<iframe src="https://trinket.io/embed/python/edd948bf08" width="50%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Python">Python Course</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/WebDev">WebDev Course</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+</nav>
 
+<p>
+    Welcome to Course where you can learn Python or Web Development (HTML) through beginner level projects! <br> 
+    Get started now by selecting a course!
+</p>
