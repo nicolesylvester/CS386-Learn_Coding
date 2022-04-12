@@ -1,0 +1,36 @@
+﻿@page
+@model WebDevModel
+@{
+    ViewData["Title"] = "Web Development Course";
+}
+<h1>@ViewData["Title"]</h1>
+
+<style>
+    .message, h1{
+        color: forestgreen;
+    }
+</style>
+
+@*
+  code to navigate back to the original course page!
+*@
+
+<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Courses">Back to Courses</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+</nav>
+
+@*
+    implementing an html IDE from trinket.io
+*@
+<div class="message">
+    <p>HTML IDE</p>
+</div>
+<iframe src="https://trinket.io/embed/html/0d917be3f7?runMode=autorun" width="50%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
