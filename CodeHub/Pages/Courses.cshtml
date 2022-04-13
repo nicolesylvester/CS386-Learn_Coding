@@ -17,28 +17,35 @@
         font-family: 'Varela Round', sans-serif;
     }
 
+    .navButton {
+        background-color: forestgreen;
+        border: 2px solid forestgreen;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        transition-duration: 0.4s;
+        width:50%;
+    }
+   .navButton:hover {
+       background-color: white;
+       color: forestgreen;
+   }
+
 </style>
 
 @*
     code to navigate from the course page to python or web dev courses
 *@
-
-<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Python">Python Course</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/WebDev">WebDev Course</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-</nav>
-
 <p>
     Welcome to Course where you can learn Python or Web Development (HTML) through beginner level projects! <br> 
     Get started now by selecting a course!
 </p>
+<br>
+<button class= "navButton" onClick="location.href='/computerLiteracy'" type="button">Computer Literacy</button><br><br>
+<button class= "navButton" onClick="location.href='/Python'" type="button">Python</button><br><br>
+<button class= "navButton" onClick="location.href='/WebDev'" type="button">Web Development</button><br><br>
+
+
