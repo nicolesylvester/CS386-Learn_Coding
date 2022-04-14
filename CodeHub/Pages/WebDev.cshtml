@@ -3,29 +3,33 @@
 @{
     ViewData["Title"] = "Web Development Course";
 }
-<h1>@ViewData["Title"]</h1>
 
 <style>
     .message, h1{
         color: forestgreen;
     }
+    .button{
+        font-size: 16px;
+        border: none;
+        background-color: forestgreen;
+        color: white;
+        text-align: center;
+        opacity: 0.5;
+        transition: 0.3s;
+    }
+    .button:hover {
+        opacity: 1;
+        background-color: forestgreen;
+    }
 </style>
+
+<button class="button" onClick="location.href='/Courses'" type="button">Back to Courses</button>
+
+<h1>@ViewData["Title"]</h1>
 
 @*
   code to navigate back to the original course page!
 *@
-
-<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Courses">Back to Courses</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-</nav>
 
 @*
     implementing an html IDE from trinket.io
