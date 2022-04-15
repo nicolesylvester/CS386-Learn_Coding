@@ -3,13 +3,31 @@
 @{
     ViewData["Title"] = "Python Course";
 }
-<h1>@ViewData["Title"]</h1>
 
 <style>
     .message, h1{
         color: forestgreen;
     }
+
+    .button{
+        font-size: 16px;
+        border: none;
+        background-color: forestgreen;
+        color: white;
+        text-align: center;
+        opacity: 0.5;
+        transition: 0.3s;
+    }
+    .button:hover {
+        opacity: 1;
+        background-color: forestgreen;
+    }
+
 </style>
+
+<button class="button" onClick="location.href='/Courses'" type="button">Back to Courses</button>
+
+<h1>@ViewData["Title"]</h1>
 
 @*
     code to navigate back to the original course page!
@@ -36,8 +54,9 @@
 </div>
 
 <div style= float: left">
-<iframe src="https://trinket.io/embed/python/edd948bf08" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/66bf5cca05" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
+
     @*
         Directions for python project
         -- formatted to fit the right half of the screen w/ scroll bar
