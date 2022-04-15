@@ -5,6 +5,9 @@
 }
 
 <style>
+    h1{
+        text-align: center;
+    }
     .button{
         font-size: 16px;
         border: none;
@@ -18,10 +21,118 @@
         opacity: 1;
         background-color: forestgreen;
     }
+    .button1 {
+        
+        background-color: forestgreen;
+        color: white;
+    }
 </style>
 
 <button class="button" onClick="location.href='/Courses'" type="button">Back to Courses</button>
 
 <h1>@ViewData["Title"]</h1>
 
+<script>
+var result = 0; 
+
+function myFunction(a,b){
+result = result + 1; //add the score
+alert("Nice job, correct answer!!")
+}
+
+function myWrongFunction();{
+    alert("Too bad, wrong answer")
+}
+
+function endingFunction(){
+    alert("You got " + result*10 + "%, if you are not happy with this result start over!")
+}
+</script>
+
+<table>
+	<tr>
+
+	<td valign = "top" width = 10% >
+	</td>
+
+	<td valign = "top" with = 80% >
+<br><br>
+<div class="questions">
+<p><b>1. Which of the following are skills you need to be successful in coding?</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton" onclick="myWrongFunction();">A) Problem Solving<br>
+<input type="radio" name="radiobutton" onclick="myWrongFunction();">B) Efficiency<br>
+<input type="radio" name="radiobutton" onclick="myWrongFunction();">C) Independence<br>
+<input type="radio" name="radiobutton" onclick="myFunction();">D) All of the above<br>
+</div><br>
+<p><b>2. Binary code is how computers send, receive, and store information.</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton1" onclick="myFunction();">A) True<br>
+<input type="radio" name="radiobutton1" onclick="myWrongFunction();">B) False<br>
+</div><br>
+<p><b>3. Which of these languages is commonly found embedded in HTML code?</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton2" onclick="myFunction();">A) JavaScript<br>
+<input type="radio" name="radiobutton2" onclick="myWrongFunction();">B) C++<br>
+<input type="radio" name="radiobutton2" onclick="myWrongFunction();">C) HTML<br>
+</div><br>
+<p><b>4. When code is compiled it ...</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton3" onclick="myWrongFunction();">A) is made into a smaller version. <br>
+<input type="radio" name="radiobutton3" onclick="myWrongFunction();">B) is read directly from the program.<br>
+<input type="radio" name="radiobutton3" onclick="myFunction();">C) is converted into binary code.<br>
+<input type="radio" name="radiobutton3" onclick="myWrongFunction();">D) runs slower.<br>
+</div><br>
+<p><b>5. Coding is ...</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton2" onclick="myWrongFunction();">D) Python<br>
+<input type="radio" name="radiobutton4" onclick="myWrongFunction();">A) the language computers use to communicate.<br>
+<input type="radio" name="radiobutton4" onclick="myFunction();">B) a set of instructions given to a computer.<br>
+<input type="radio" name="radiobutton4" onclick="myWrongFunction();">C) the computer specifying instructions to the user.<br>
+<input type="radio" name="radiobutton4" onclick="myWrongFunction();">D) writing a program in a specific language.<br>
+</div><br>
+<p><b>6. What job does an ethical hacker perform?</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton5" onclick="myWrongFunction();">A) Writes code for video games<br>
+<input type="radio" name="radiobutton5" onclick="myWrongFunction();">B) Handles what users see and experience on websites<br>
+<input type="radio" name="radiobutton5" onclick="myWrongFunction();">C) Handles what happens behind the scenes on websites<br>
+<input type="radio" name="radiobutton5" onclick="myFunction();">D) Evaluates a computer system's vulnerabilities and weaknesses<br>
+</div><br>
+<p><b>7. Which of these languages looks the most like regular English?</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton6" onclick="myWrongFunction();">A) JavaScript<br>
+<input type="radio" name="radiobutton6" onclick="myWrongFunction();">B) C++<br>
+<input type="radio" name="radiobutton6" onclick="myWrongFunction();">C) HTML<br>
+<input type="radio" name="radiobutton6" onclick="myFunction();">D) Python<br>
+</div><br>
+<p><b>8. Which of these languages is used primarily to create web pages and web applications?</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton7" onclick="myFunction();">A) HTML<br>
+<input type="radio" name="radiobutton7" onclick="myWrongFunction();">B) C++ <br>
+<input type="radio" name="radiobutton7" onclick="myWrongFunction();">C) Python<br>
+<input type="radio" name="radiobutton7" onclick="myWrongFunction();">D) JavaScript<br>
+</div><br>
+<p><b>9. A program must only have one algorithm.</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton8" onclick="myWrongFunction();">A) True<br>
+<input type="radio" name="radiobutton8" onclick="myFunction();">B) False<br>
+</div><br>
+<p><b>10. Which of these is a general-purpose programming language that is used a lot in video games?</b></p>
+<div class="answers">
+<input type="radio" name="radiobutton9" onclick="myWrongFunction();">A) HTML<br>
+<input type="radio" name="radiobutton9" onclick="myWrongFunction();">B) Python<br>
+<input type="radio" name="radiobutton9" onclick="myFunction();">C) C++<br>
+<input type="radio" name="radiobutton9" onclick="myWrongFunction();">D) JavaScript<br>
+</div><br>
+</div>
+
+<button class="button1" onclick="endingFunction();" type="button">Summit</button>
+<button class="button1" onClick="window.location.reload();" type="button">Restart</button>
+</td>
+
+	<td valign = "top" width = 20% >
+	</td>
+	
+	</tr>
+	</table>
 
