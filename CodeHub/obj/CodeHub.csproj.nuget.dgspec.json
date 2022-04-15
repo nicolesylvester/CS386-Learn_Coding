@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valen\\source\\Repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj": {}
+    "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valen\\source\\Repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj": {
+    "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valen\\source\\Repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj",
+        "projectUniqueName": "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj",
         "projectName": "CodeHub",
-        "projectPath": "C:\\Users\\valen\\source\\Repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj",
-        "packagesPath": "C:\\Users\\valen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valen\\source\\Repos\\CS386-Learn_Coding\\CodeHub\\obj\\",
+        "projectPath": "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj",
+        "packagesPath": "C:\\Users\\nicci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicci\\source\\repos\\nicolesylvester\\CS386-Learn_Coding\\CodeHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\valen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nicci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
