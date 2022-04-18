@@ -68,7 +68,7 @@ GitHub: https://github.com/ind9-nau/CS386-Learn_Coding
 
 3.1.1. Test framework you used to develop your tests (e.g., JUnit, unittest, pytest, etc.):  
 
-In order to develop our tests, we used Visual Studio’s Microsoft Unit Testing Frameworks. 
+In order to develop our tests, we used Visual Studio’s Microsoft Unit Testing Frameworks. Currently this test insures the code builds and runs correctly. It also pings trinket to make sure the website is up and running and our IDEs will work correctly. 
 
 3.1.2. Link to your GitHub folder where your automated unit tests are located. 
 
