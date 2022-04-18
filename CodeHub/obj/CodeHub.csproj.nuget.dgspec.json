@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baile\\source\\repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj": {}
+    "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baile\\source\\repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj": {
+    "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baile\\source\\repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj",
+        "projectUniqueName": "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj",
         "projectName": "CodeHub",
-        "projectPath": "C:\\Users\\baile\\source\\repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj",
-        "packagesPath": "C:\\Users\\baile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baile\\source\\repos\\CS386-Learn_Coding\\CodeHub\\obj\\",
+        "projectPath": "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\CodeHub\\CodeHub.csproj",
+        "packagesPath": "C:\\Users\\iande\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iande\\Source\\Repos\\CS386-Learn_Coding\\CodeHub\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\baile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\iande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

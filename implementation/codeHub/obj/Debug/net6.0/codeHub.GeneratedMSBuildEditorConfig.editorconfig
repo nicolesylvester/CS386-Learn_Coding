@@ -8,69 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = codeHub
 build_property.RootNamespace = codeHub
-build_property.ProjectDir = C:\Users\nicci\Source\Repos\nicolesylvester\CS386-Learn_Coding\implementation\codeHub\
+build_property.ProjectDir = C:\Users\iande\Source\Repos\CS386-Learn_Coding\implementation\codeHub\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\nicci\Source\Repos\nicolesylvester\CS386-Learn_Coding\implementation\codeHub
+build_property.MSBuildProjectDirectory = C:\Users\iande\Source\Repos\CS386-Learn_Coding\implementation\codeHub
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/BasicCourse.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/BasicCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFzaWNDb3Vyc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/Courses.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/Courses.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/Error.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/Index.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/JCourse.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/JCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSkNvdXJzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/Profile.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/PyCourse.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/PyCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHlDb3Vyc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/QA.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/QA.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUUEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/References.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/References.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVmZXJlbmNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/Settings.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/Settings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/WebCourse.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/WebCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2ViQ291cnNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/_ViewImports.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/_ViewStart.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nicci/Source/Repos/nicolesylvester/CS386-Learn_Coding/implementation/codeHub/Pages/Shared/_Layout.cshtml]
+[C:/Users/iande/Source/Repos/CS386-Learn_Coding/implementation/codeHub/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0jawseap9e
