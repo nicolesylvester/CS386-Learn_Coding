@@ -16,21 +16,5 @@ namespace CodeHub.Data.Tests
         {
             Assert.Fail();
         }
-
-        public async void PingCheck()
-        {
-            DateTime now = DateTime.Now;
-            var hostUrl = "www.trinket.io";
-            Ping ping = new Ping();
-
-
-            PingReply result = await ping.SendPingAsync(hostUrl);
-
-            using (FileStream fs = File.Create("pingData.txt"))
-            {
-                AddText(fs, "Date: " + now.ToString("F"));
-                AddText(fs, result);
-            }
-        }
     }
 }
