@@ -8,8 +8,6 @@ GitHub: https://github.com/ind9-nau/CS386-Learn_Coding
 
 ## 2. Verification (tests) ## 
 
-Verification aims to ensure that you correctly developed the product. 
-
 ### 2.1. Unit test ###
 
 A unit test is an automated test that aims to verify the behavior of a component isolated from the rest of the system. For this deliverable, show an example of unit test that uses mock objects to isolate the class from the rest of the system.  
@@ -17,24 +15,12 @@ A unit test is an automated test that aims to verify the behavior of a component
 #### 2.1.1. Test framework you used to develop your tests (e.g., JUnit, unittest, pytest, etc.):  ####
 In order to develop our tests, we used Visual Studio’s Microsoft Unit Testing Frameworks. Currently this test insures the code builds and runs correctly. It also pings trinket to make sure the website is up and running and our IDEs will work correctly.
 
-#### 2.1.2. Link to your GitHub folder where your automated unit tests are located.  ####
+#### 2.1.2. GitHub Link: ###
+https://github.com/ind9-nau/CS386-Learn_Coding/tree/main/CodeHubTests
 
-**GitHub Link:** https://github.com/ind9-nau/CS386-Learn_Coding/tree/main/CodeHubTests
-
-#### 2.1.3. A print screen showing the result of the unit tests execution.  ####
+#### 2.1.3. A print screen   ####
 ![Screenshot (19)](https://user-images.githubusercontent.com/71994157/165666005-7e364591-8968-4ed3-9fa6-d9b044ec1f3b.png)
 
-### 2.2. Acceptance test  ###
-
-An acceptance test is a test that verifies the correct implementation of a feature from the user interface perspective. An acceptance test is a black box test (the system is tested without knowledge about its internal implementation). Provide the following information:  
-
-#### 2.2.1. Test framework you used to develop your tests (e.g., Selenium, Katalon Studio, Espresso2, Cucumber, etc.): 
-
-#### 2.2.2. Link to your GitHub folder where your automated acceptance tests are located. 
-
-#### 2.2.3. An example of an acceptance test. Include in your answer a GitHub link to the test and an explanation about the tested feature. 
-
-#### 2.2.4. A print screen/video showing the acceptance test execution.  
 
 ## 3. Validation (user evaluation) ## 
 
